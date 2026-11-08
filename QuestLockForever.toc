@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: QuestLock Forever
+## Notes: Protects quest items and profession tools from being sold or deleted by mistake.
+## Author: LankyFranky89
+## Version: 1.0.5
+## IconTexture: Interface\AddOns\QuestLockForever\icon
+## OptionalDeps: Baganator
+## SavedVariables: QuestLockForeverDB
+
+QuestLockForever.lua
+
+Options.lua

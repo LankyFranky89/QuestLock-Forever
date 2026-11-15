@@ -1,6 +1,6 @@
 # QuestLock Forever
 
-![QuestLock Forever](media/icon_curseforge.png)
+![QuestLock Forever](media/icon.png)
 
 Never sell or delete a quest item by mistake again.
 

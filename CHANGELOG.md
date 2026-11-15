@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.6
+- New addon icon, in game and on GitHub
+
 ## 1.0.5 - first public release
 - Protects every item that a quest in your quest log asks for
 - Yellow "!" on quest items and a padlock on profession tools and items you add yourself, in your bags, Baganator, vendors and the loot window
